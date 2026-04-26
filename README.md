@@ -3,7 +3,7 @@
 
 IP CIDR ranges of crawlers and bots used for AI model training, indexing, and retrieval.
 
-Ranges are checked daily.
+Ranges are checked daily for changes.
 
 ### Suggestions
 
