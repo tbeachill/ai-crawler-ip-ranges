@@ -1,5 +1,5 @@
 # AI Crawler IP Ranges
-> 🕒 **Last check:** `2026-11-01T09:00:28Z` (UTC)
+> 🕒 **Last check:** `2026-11-02T09:00:26Z` (UTC)
 
 IP CIDR ranges of crawlers and bots used for AI model training, indexing, and retrieval.
 
